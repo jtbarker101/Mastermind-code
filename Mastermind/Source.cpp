@@ -1,6 +1,6 @@
 // Jon Barker
 // This is my code
-//Mastermind
+// Mastermind
 
 #include <iostream>
 #include "GAME.h"
